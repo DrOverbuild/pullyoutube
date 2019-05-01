@@ -1,0 +1,9 @@
+.idea/*
+target/*
+.DS_Store
+*.iml
+
+credentials/databaseproj/StoredCredential
+src/main/resources/client_secret.json
+src/main/resources/client_secret2.json
+src/main/resources/database-proj-c6708ca443e8.json
